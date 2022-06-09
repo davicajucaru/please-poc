@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0](https://github.com/davicajucaru/please-poc/compare/v1.0.0...v1.1.0) (2022-06-09)
+
+
+### Features
+
+* add input and button ([dc0fa3f](https://github.com/davicajucaru/please-poc/commit/dc0fa3f81fd6b4eabc8a4688c09d3fdc92f6098f))
+* add input component ([244a874](https://github.com/davicajucaru/please-poc/commit/244a87406a056ed42048afc71e05c50b34958135))
+* add placeholder in input ([541a8e7](https://github.com/davicajucaru/please-poc/commit/541a8e7a2e763c6072c7a4b1225526b6f6b5dd4c))
+
 ## 1.0.0 (2022-06-09)
 
 

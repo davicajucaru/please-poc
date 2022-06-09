@@ -1,3 +1,3 @@
 export function Button() {
-  return <button>add</button>;
+  return <button onClick={() => console.log("add")}>add</button>;
 }

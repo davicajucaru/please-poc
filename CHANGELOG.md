@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/davicajucaru/please-poc/compare/v1.2.0...v1.3.0) (2022-06-09)
+
+
+### Features
+
+* add text ([#10](https://github.com/davicajucaru/please-poc/issues/10)) ([#11](https://github.com/davicajucaru/please-poc/issues/11)) ([6e51984](https://github.com/davicajucaru/please-poc/commit/6e5198492ec40c18c129fb00e851684e2f3ef5b0))
+
 ## [1.2.0](https://github.com/davicajucaru/please-poc/compare/v1.1.0...v1.2.0) (2022-06-09)
 
 

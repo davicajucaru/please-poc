@@ -1,7 +1,7 @@
 export function App() {
   return (
     <>
-      <input type="text" />
+      <h1>Hello World</h1>
     </>
   );
 }

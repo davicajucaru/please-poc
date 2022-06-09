@@ -1,7 +1,9 @@
+import { Input } from "./Input";
+
 export function App() {
   return (
     <>
-      <input type="text" placeholder="add your text here..." />
+      <Input />
       <button>add</button>
     </>
   );

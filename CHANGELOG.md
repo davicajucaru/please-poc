@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/davicajucaru/please-poc/compare/v1.1.0...v1.2.0) (2022-06-09)
+
+
+### Features
+
+* add button and input component ([acb697c](https://github.com/davicajucaru/please-poc/commit/acb697cc5a6b3ff03317c669bd4e6cbb142d0893))
+
+
+### Bug Fixes
+
+* fix onclick button ([5713ba1](https://github.com/davicajucaru/please-poc/commit/5713ba1b06d36f37ba2a1e1ca1971fd666894215))
+
 ## [1.1.0](https://github.com/davicajucaru/please-poc/compare/v1.0.0...v1.1.0) (2022-06-09)
 
 

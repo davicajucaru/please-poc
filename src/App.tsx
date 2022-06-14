@@ -6,6 +6,7 @@ export function App() {
     <>
       <Input />
       <Button />
+      <Button />
       <h1>Welcome. Hello, World!!</h1>
     </>
   );

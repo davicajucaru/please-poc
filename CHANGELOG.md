@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/davicajucaru/please-poc/compare/v1.5.0...v2.0.0) (2022-06-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* new button
+
+### Features
+
+* new button ([cb0ec14](https://github.com/davicajucaru/please-poc/commit/cb0ec145a79dfd8c48c03b0ad3e2db89af9e567c))
+
 ## [1.5.0](https://github.com/davicajucaru/please-poc/compare/v1.4.1...v1.5.0) (2022-06-14)
 
 
